@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Experiment4_1</string>
+    <string name="edit_text">在此输入网址</string>
+    <string name="button_text">浏览该网页</string>
+</resources>
